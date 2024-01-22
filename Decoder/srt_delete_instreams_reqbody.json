@@ -1,0 +1,29 @@
+[
+    {		
+        "id": 22,		
+        "view": 0,		
+        "cnct_mode": "caller",		
+        "ip": "192.168.25.90",		
+        "port": 7010,		
+        "aes_select": "none",		
+        "password": "",		
+        "jitter": 100,		
+        "v_codec": "hevc",		
+        "a_codec": "opus",		
+        "audio_sync": true		
+    },
+    {	
+        "id": 22,	
+        "view": 1,	
+        "cnct_mode": "caller",	
+        "ip": "192.168.25.90",	
+        "port": 7010,	
+        "aes_select": "aes128",	
+        "password": "abcdef123456",	
+        "jitter": 1500,	
+        "v_codec": "avc",	
+        "a_codec": "aac",	
+        "audio_sync": true	
+    }	
+
+]

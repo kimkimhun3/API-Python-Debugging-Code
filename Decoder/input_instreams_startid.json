@@ -1,0 +1,36 @@
+[
+    {	
+        "id": 1,	
+        "view": 0,	
+        "ip_multi": false,	
+        "recv_ip": "",	
+        "recv_port": 5004,	
+        "v_codec": "hevc",	
+        "a_codec": "none",	
+        "two_way_audio": false,	
+        "two_way_ip": "",	
+        "two_way_port": "",	
+        "a_bitrate": "",	
+        "a_bitrate_custom": "",	
+        "sync": 0,	
+        "jitter": 10,	
+        "function": 0,	
+        "encoder_ip": "",	
+        "encoder_port": "",	
+        "encryption": false,	
+        "ttl": 1	
+    },
+    {	
+        "id": 21,	
+        "view": 0,	
+        "cnct_mode": "caller",	
+        "ip": "192.168.25.90",	
+        "port": 7010,	
+        "aes_select": "none",	
+        "password": "",	
+        "jitter": 100,	
+        "v_codec": "hevc",	
+        "a_codec": "opus",	
+        "audio_sync": true	
+    }	
+]
