@@ -2,7 +2,7 @@
 This tool is designed to assist developers in debugging the software for Encoder and Decoder devices in real-time using Python. Below you will find instructions on how to set up and use the tool effectively.
 
 
-#Features:
+## Features:
 - Real-time debugging of Encoder and Decoder devices.
 - Python-based interface for ease of use and flexibility.
 - Simplified debugging process for enhanced efficiency.
