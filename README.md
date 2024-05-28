@@ -6,6 +6,7 @@ This tool is designed to assist developers in debugging the software for Encoder
 - Real-time debugging of Encoder and Decoder devices.
 - Python-based interface for ease of use and flexibility.
 - Simplified debugging process for enhanced efficiency.
+- Only accept with python **3.8.10**
 
 ## Installation
 - **Python 3.8.10**
