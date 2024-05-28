@@ -10,6 +10,7 @@ This tool is designed to assist developers in debugging the software for Encoder
 
 ## Installation
 - **Python 3.8.10**
+- **aiohttp**
 
 ## Features:
 - Only accept with python **3.8.10**
