@@ -30,7 +30,7 @@ urls = [api_url] * number_req
 loop = asyncio.get_event_loop()
 
 request_number = 10  # Initialize request number
-success_counter = Counter()  # Initialize a success counter
+success_counter = Counter()  # Initialize a success counter one time
 
 results = loop.run_until_complete(asyncio.gather(
     *[send_put_request(url, request_body, request_number + i, success_counter) for i, url in enumerate(urls)]
