@@ -14,7 +14,7 @@ This tool is designed to assist developers in debugging the software for Encoder
 
 ## Features:
 - Only accept with python **3.8.10**
-- It doesn't work with another version of python 
+- It doesn't work with another version of python, make sure **3.8.10**
   
 To ensure that AIOHTTP is install correctly on the root, run the following command
 
