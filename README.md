@@ -16,6 +16,7 @@ This tool is designed to assist developers in debugging the software for Encoder
 - Only accept with python **3.8.10**
 - It doesn't work with another version of python, make sure **3.8.10**
 - Send request from window PC to the web API
+- Update parameters based on the .conf file
   
 To ensure that AIOHTTP is install correctly on the root, run the following command
 
